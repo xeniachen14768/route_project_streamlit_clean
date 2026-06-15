@@ -7,3 +7,5 @@ osmnx
 geopandas
 shapely
 matplotlib
+scikit-learn
+scipy
